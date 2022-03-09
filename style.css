@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'YogaSansLigh';
+  src: url(fonts/YogaSansLight.ttf);
+}
+@font-face {
+  font-family: 'AntoniaTextMedium';
+  src: url(fonts/AntoniaRegular.ttf);
+}
+
+main{
+  width: 720px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 100px;
+}
+table{
+  text-align: left;
+  border-collapse: collapse;
+
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 35px;
+
+  width: 100%;
+  border: 2px solid;
+  border-color: #ced1d4;
+  
+  color: #58595b;
+  font-family: 'YogaSansLigh';
+}
+td{
+  border: 2px solid;
+  border-color: #ced1d4;
+  padding: 15px;
+  padding-bottom: 10px;
+}
+.title{
+  border: 2px solid;
+  border-color: #ced1d4;
+  padding: 15px;
+  padding-bottom: 10px;
+  background-color: #ebecec; 
+}
